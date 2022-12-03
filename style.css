@@ -1,0 +1,90 @@
+
+h1.basliq {
+    text-align: center;
+    font-size: 40px;
+    color:black;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    margin: 0 auto;
+      
+}
+.a {
+  color: red;
+}
+body {
+    background-color: white;
+    font-family: inherit;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+p {
+    margin: 10px 5px 5px 5px;
+    font-size: 20px;
+}
+img.university{
+  width: 101%;
+}
+
+.school-indicators {
+    margin-bottom: 20px;
+    margin-top: 10px;
+    
+}
+
+h3.site {
+    text-align: right;
+    font-size: 40px;
+    position: relative;
+    bottom: 170px;
+    right: 100px;
+     
+}
+
+
+h3.purpose {
+    text-align: center;
+}
+.table {
+    margin: 50px 0px;
+    min-width: 400px;
+    text-align: center;
+    border-radius: 5px 5px 0 0;
+}
+
+h3.instructorstitle {
+  text-align: center;
+    font-size: 50px;
+    
+}
+.video {
+  text-align: center;
+}
+ul { 
+   padding: 0px
+}
+li {
+   display: inline-block;
+   width: auto;
+   list-style: outside none none;
+}
+#male {
+  padding-left:150px;
+  
+}
+#female {
+ padding-left: 100px;
+}
+#students {
+  padding-left: 200px;
+}
+ul {
+  font-size: 20px;
+  color: black;
+}
+.t {
+  padding-left:50px;
+}
+
+.links{
+  text-decoration: none;
+}

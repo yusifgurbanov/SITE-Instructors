@@ -1,0 +1,81 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.rows {
+    color: brown;
+}
+table, th, td  {
+  border: 1px solid gray;
+}
+td {
+  font-size: 20px;
+}
+body {
+    background-color: white;
+    font-family: inherit;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.instructorstable{
+   margin: 0 auto;
+}
+#profession, #email, #office {
+  font-size: 25px;
+}
+.education {
+  font-size: 30px;
+  color: brown;
+}
+#list {
+  font-size: 20px;
+}
+p.quote {
+  font-size: 25px;
+  margin-left:10px;
+  margin-right: 10px;
+}
+.links{
+  text-decoration: none;
+}
+
+.comentBox {
+  padding: 1%;
+  width: 96%;
+  border:1px solid black;
+  background-color: lightgray;
+}
+.leftPanelImg {
+  width: 10%;
+  float: left;
+}
+
+.rightPanel {
+  width: 85%;
+  float: left;
+  margin-left: 1%;
+}
+.clear {
+  clear:both;
+}
+.form {
+  padding:10px;
+ 
+  margin-bottom: 10px;
+  text-align: center;
+}
+.form input[type="text"], .form textarea {
+  
+  padding:2px;
+  width: 500px;
+}
+.rightPanel {
+  font-size: 18px;
+}
+.header {
+  font-size: 20px;
+}
+.survey {
+  opacity: 30%;
+  color: gray;
+}
